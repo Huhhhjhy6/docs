@@ -46,7 +46,8 @@ Videos are broadly grouped into three categories: product overviews, feature vid
 - **Length**: As short as possible, without exceeding five minutes. Break longer content into multiple shorter, focused videos
 - **Possible audiences**: People who are learning about or how to use a feature
 - **Possible locations in the docs**: Guides, conceptual articles, procedural articles
-- **Example:** "[Pull Requests • GitHub & Git Foundations](https://www.youtube.com/watch?v=d5wpJ5VimSU&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=20)" in "[Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources#tune-in)"
+- **Example:** "[Pull Requests • GitHub & Git Foundations](https://ww
+w.youtube.com/watch?v=d5wpJ5VimSU&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=20)" in "[Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources#tune-in)"
 
 ### Tutorials
 - **Purpose**: Help novice users get going with a product, drive adoption, or explain complex functionalities
